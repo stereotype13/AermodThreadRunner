@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AermodThreadAppFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-06-18T17:29:30" hostname="D1120039749" time="0.028">
+  <properties/>
+  <testcase name="testPRODUCTION" classname="AermodThreadAppFactoryTest" time="0.028"/>
+  <system-out><![CDATA[There are 0 subdirectories to parse.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
